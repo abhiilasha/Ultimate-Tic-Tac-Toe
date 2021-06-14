@@ -194,18 +194,16 @@ void start()
    system("cls");
    gotoxy(33,9);
    cout<< "*****************************";
-   gotoxy(35,11);
+   gotoxy(37,11);
    cout<< "ULTIMATE TIC TAC TOE ";
-   gotoxy(33,15);
+   gotoxy(36,14);
    cout<< "By: Abhilasha(19103003)";
     gotoxy(33,16);
-    cout<< "Akanksha (19103008)";
+      cout<< "*****************************"<<endl;
      gotoxy(33,17);
-     cout<< "Amrit (19103013)";
-     gotoxy(33,18);
-     cout<< "Arshit (19103023)";
+
      gotoxy(33,19);
-   cout<< "*****************************"<<endl;
+
 cout<< "press any key to continue";
 _getch();
 }
