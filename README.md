@@ -6,8 +6,8 @@ Tic Tac Toe game on a 9X9 grid using C++
 .           
 .           
 
+![image](https://user-images.githubusercontent.com/72290326/123467695-6c4ffe00-d60e-11eb-8eb2-28d8e3069254.png)
 
- ![image](https://user-images.githubusercontent.com/72290326/121864848-f3ea6280-cd1a-11eb-94c4-b6910b319d7f.png)
 
 
 //The main menu
